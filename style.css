@@ -23,5 +23,14 @@ footer{
 padding: 4rem;
 display: flex;
 gap: 3rem;
+flex-wrap: wrap;
+    }
+
+    .cartão{
+        background-color: var(--cartao-frente);
+        flex-grow: 1;
+        height: 20rem;
+        margin: 1rem;
+    }
 
     }
