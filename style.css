@@ -62,4 +62,7 @@ flex-wrap: wrap;
     .resposta-cartao{
         font-weight: 700;
     }
+    .cartao:hover .conteudo-cartao{
+        transform: rotateY(180deg);
+    }
     
