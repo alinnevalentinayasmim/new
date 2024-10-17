@@ -23,80 +23,80 @@ criaCartao(
     'Em que ano foi lançado o primeiro ataque nuclear durante a Segunda Guerra Mundial?',
     'Em 6 de agosto de 1945, sobre a cidade de Hiroshima, Japão.')
     
-    criaCartão(
+    criaCartao(
     'historia',
     'O que foi a Revolução Francesa?',
     'Um período de grande agitação social e política na França, que começou em 1789 e levou à queda da monarquia e ao surgimento da República.')
     
-    criaCartão(
+    criaCartao(
     'historia',
     'Quem foi Napoleão Bonaparte?',
     'Um general francês que se tornou imperador da França e dominou grande parte da Europa no início do século XIX.')
     
-    criaCartão(
+    criaCartao(
     'historia',
     'O que foi o Tratado de Versalhes?',
     'Um tratado de paz assinado em 1919 que encerrou a Primeira Guerra Mundial e impôs condições severas à Alemanha.')
     
-    criaCartão(
+    criaCartao(
     'historia',
     'Quando ocorreu a Guerra Civil Americana?',
     'Entre 1861 e 1865.')
 
-    criaCartão(
+    criaCartao(
     'historia',
     'Qual foi a principal causa da Primeira Guerra Mundial?',
     'O assassinato do arquiduque Francisco Ferdinando da Áustria e a complexa rede de alianças e rivalidades europeias.')
     
-    criaCartão(
+    criaCartao(
     'historia',
     'Quem foi o líder da Revolução Russa de 1917?',
     'Vladimir Lenin.')
     
-    criaCartão(
+    criaCartao(
     'historia',
     'O que foi a Guerra Fria?',
     'Um período de tensão política e militar entre os Estados Unidos e a União Soviética, que durou aproximadamente de 1947 a 1991.')
     
     
     
-    criaCartão(
+    criaCartao(
     'historia',
     'Quando ocorreu a Independência do Brasil?',
     'Em 7 de setembro de 1822.')
     
-    criaCartão(
+    criaCartao(
     'historia',
     'Qual foi o impacto da Revolução Industrial?',
     'A Revolução Industrial, que começou no final do século XVIII, trouxe mudanças tecnológicas e sociais profundas, incluindo a urbanização e a mecanização da produção.')
     
-    criaCartão(
+    criaCartao(
     'historia',
     ' O que foi o Renascimento?',
     'Um movimento cultural e artístico que floresceu na Europa entre os séculos XIV e XVII, caracterizado pela redescoberta da arte e ciência clássicas.')
     
-    criaCartão(
+    criaCartao(
     'historia',
     'Quem foi o autor da obra "O Príncipe"?',
     'Nicolau Maquiavel.')
     
-    criaCartão(
+    criaCartao(
     'historia',
     'O que foi a Inconfidência Mineira?',
     'Um movimento separatista no Brasil colonial, ocorrido em 1789, que buscava a independência da capitania de Minas Gerais.')
     
-    criaCartão(
+    criaCartao(
     'historia',
     'O que foi a Magna Carta?',
     'Um documento assinado em 1215 que limitava os poderes do rei João da Inglaterra e estabelecia certos direitos para os nobres.')
     
     
-    criaCartão(
+   criaCartao(
     'historia',
     'Qual foi o objetivo do Movimento dos Direitos Civis nos Estados Unidos?',
     'Buscar a igualdade de direitos e o fim da segregação racial, especialmente durante as décadas de 1950 e 1960.')
     
-    criaCartão(
+    criaCartao(
     'historia',
     'O que foi a Restauração Meiji no Japão?',
     'Um período de modernização e reforma no Japão que começou em 1868 e terminou com a transformação do país em uma potência industrial.')
