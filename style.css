@@ -10,6 +10,16 @@
 body {
     background-color: var(--fundo);
 }
+header{
+    padding: 2rem;
+    display: flex;
+    justify-content: space-around;
+    background-color: var(--preto);
+}
+header a{
+    color: var(--branco);
+    text-decoration: none;
+}
 
 footer {
     position: fixed;
