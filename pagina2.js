@@ -19,7 +19,7 @@ function criaCartao(Categoria,Pergunta,Resposta){
   
   function mostraResposta (card){
     const resposta=card.querySelector('.resposta-cartao');
-    if(resposta-style.display==='none'){
+    if(resposta.style.display==='none'){
       resposta.style.display='block';
   }
   else{
